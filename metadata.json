@@ -1,0 +1,5 @@
+{
+  "name": "Inteligência Geográfica",
+  "description": "Uma ferramenta avançada para padronização de endereços urbanos e geocodificação inteligente, permitindo cruzar bases de dados brutas com malhas oficiais de logradouros para geoprocessamento preciso.",
+  "requestFramePermissions": []
+}
